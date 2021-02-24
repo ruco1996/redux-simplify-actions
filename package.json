@@ -1,0 +1,10 @@
+{
+  "name": "redux-simplify-actions",
+  "version": "1.0.3",
+  "description": "Functions to simplify action creators and reducer",
+  "main": "index.js",
+  "keywords": [],
+  "author": "druizcdev",
+  "license": "ISC",
+  "dependencies": {}
+}
