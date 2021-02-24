@@ -6,5 +6,16 @@
   "keywords": [],
   "author": "druizcdev",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruco1996/redux-simplify-actions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ruco1996/redux-simplify-actions/issues"
+  },
+  "homepage": "https://github.com/ruco1996/redux-simplify-actions#readme"
 }
